@@ -1,0 +1,13 @@
+ctrlp.vim
+deoplete-clang
+deoplete-jedi
+deoplete.nvim
+neobundle.vim
+neosnippet-snippets
+neosnippet.vim
+nerdtree
+vim-airline
+vim-airline-themes
+vim-colorschemes
+vim-fugitive
+vimshell
